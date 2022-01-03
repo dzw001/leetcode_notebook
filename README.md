@@ -53,10 +53,12 @@
 - [48.旋转图像](solutions/48.旋转图像.md)
 - [49.字母异位词分组](solutions/49.字母异位词分组.md)
 - [64.最小路径和](solutions/64.最小路径和.md)
+- [78.子集](solutions/78.子集.md)（位运算求子集，经典问题了）
+- [79.单词搜索](solutions/79.单词搜索.md)
 
 
 # 计划清单
-- [ ] [LeetCode 热题 HOT 100](plan_list/Hot_100.md) （已完成12%）
+- [ ] [LeetCode 热题 HOT 100](plan_list/Hot_100.md) （已完成14%）
 
 
 # TODO
